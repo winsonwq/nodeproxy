@@ -1,0 +1,10 @@
+{
+	"uxdemo" : {
+		"host" : "www.google.com",
+		"port" : 80
+	},
+	"dev" : {
+		"host" : "m.saxfvo.agent1.dev.realestate.com.au",
+		"port" : 3000
+	}
+}
